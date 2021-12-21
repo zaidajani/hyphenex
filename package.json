@@ -2,7 +2,7 @@
   "name": "hyphenex",
   "version": "1.0.0",
   "description": "Hyphenizes a string with ease",
-  "main": "index.js",
+  "main": "hyphenex.js",
   "scripts": {
     "test": "jest"
   },

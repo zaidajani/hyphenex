@@ -5,6 +5,7 @@
 </center>
 
 
+
 Separate words from a string and convert them into a single string using hyphens. work in progress.
 
 ### You can hyphenate and dehyphanate strings dynamically also!
@@ -83,5 +84,4 @@ hyphenex.deHyphenateDynamically("This+string+will+be+dehyphenated+dynamically", 
 // Expect result to be 'This string will be dehyphenated dynamically'
 ```
 
-### If you face any issues or have any comeplaints about this, kindly report an issue or to resolve and existing issue, please make a pull request.
-
+### If you face any issues or have any comeplaints about this, kindly report an issue or to resolve and existing issue, please make a pull request or else I will hyphenate your name :)
