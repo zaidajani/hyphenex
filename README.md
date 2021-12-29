@@ -84,4 +84,4 @@ hyphenex.deHyphenateDynamically("This+string+will+be+dehyphenated+dynamically", 
 // Expect result to be 'This string will be dehyphenated dynamically'
 ```
 
-### If you face any issues or have any comeplaints about this, kindly report an issue or to resolve and existing issue, please make a pull request or else I will hyphenate your name :)
+### If you face any issues or have any comeplaints about this, kindly report an issue or to resolve and existing issue, please make a pull request or else I will not hyphenate your name :) Just kidding. 
